@@ -7,7 +7,7 @@
 
 #技能
 ----
-HTML、CSS、JavaScript、React、Webpack、Git
+HTML、CSS、JavaScript、React、Webpack、Git<br>
 平时使用google和stackoverflow搜索问题
 
 #工作经历
@@ -18,7 +18,7 @@ HTML、CSS、JavaScript、React、Webpack、Git
 #项目经历
 ----
 1.一路一居（开发中）<br>
-pc端的租房网站，最初项目是使用的PHP开发，前端页面混乱复杂，我用React重写了前端的页面，并分离前后端，后端继续使用PHP写接口，使的代码结构更加清晰，提高了开发速度。项目部署在阿里云上。主要使用到的技术有React + Ant Design + PHP，数据库使用MySQL。<br>[预览，功能还不完全](http://www.yiluyiju.com/)
+pc端的租房网站，最初项目是使用的PHP开发，前端页面混乱复杂，我用React重写了前端的页面，并分离前后端，后端继续使用PHP写接口，使的代码结构更加清晰，提高了开发速度。项目部署在阿里云上。主要使用到的技术有React + Ant Design + PHP，数据库使用MySQL。<br>[预览，功能还不完全](http://www.yiluyiju.com/)<br>
 2.一个React的简历（个人项目）<br>
 知乎上看到的创意，用React实现了一遍，感觉很有意思。[预览](https://spinjkb.github.io/resume/build/index.html)
 
