@@ -20,7 +20,7 @@ HTML、CSS、JavaScript、React、Git
 1.一路一居（开发中）<br>
 pc端的租房网站，最初项目是使用的PHP开发，前端页面混乱复杂，我用React重写了前端的页面，并分离前后端，后端继续使用PHP写接口，使的代码结构更加清晰，提高了开发速度。项目部署在阿里云上。主要使用到的技术有React + Ant Design + PHP，数据库使用MySQL。[预览](http://www.yiluyiju.com/)<br>
 2.外包项目（一个云服务商的网站）<br>
-使用smarty的网站模板结合react开发，部分地方使用Ant-Design的组件。数据库使用MySql。[预览](http://www.cnix.com.cn/)
+使用smarty的网站模板结合react开发，部分地方使用Ant-Design的组件。数据库使用MySql。[预览](http://www.cnix.com.cn/)<br>
 3.一个React的简历（个人项目）<br>
 网上上看到的创意，用React实现了一遍。[预览](https://spinjkb.github.io/resume/build/index.html)
 
