@@ -3,11 +3,11 @@
 姓名：靳xx<br>
 性别：男<br>
 学历：天津理工大学软件工程专业，本科2017届<br>
-电话：`186****4594` 邮箱：`jkbspin@foxmail.com`<br>
+电话：`186****4594` 邮箱：`jkbspin777@gmail.com`<br>
 
 #技能
 ----
-HTML、CSS、JavaScript、React、Webpack、Git<br>
+HTML、CSS、JavaScript、React、Git
 平时使用google和stackoverflow搜索问题
 
 #工作经历
@@ -18,14 +18,17 @@ HTML、CSS、JavaScript、React、Webpack、Git<br>
 #项目经历
 ----
 1.一路一居（开发中）<br>
-pc端的租房网站，最初项目是使用的PHP开发，前端页面混乱复杂，我用React重写了前端的页面，并分离前后端，后端继续使用PHP写接口，使的代码结构更加清晰，提高了开发速度。项目部署在阿里云上。主要使用到的技术有React + Ant Design + PHP，数据库使用MySQL。<br>[预览，功能还不完全](http://www.yiluyiju.com/)<br>
-2.一个React的简历（个人项目）<br>
-知乎上看到的创意，用React实现了一遍，感觉很有意思。[预览](https://spinjkb.github.io/resume/build/index.html)
+pc端的租房网站，最初项目是使用的PHP开发，前端页面混乱复杂，我用React重写了前端的页面，并分离前后端，后端继续使用PHP写接口，使的代码结构更加清晰，提高了开发速度。项目部署在阿里云上。主要使用到的技术有React + Ant Design + PHP，数据库使用MySQL。[预览](http://www.yiluyiju.com/)<br>
+2.外包项目（一个云服务商的网站）<br>
+使用smarty的网站模板结合react开发，部分地方使用Ant-Design的组件。数据库使用MySql。[预览](http://www.cnix.com.cn/)
+3.一个React的简历（个人项目）<br>
+网上上看到的创意，用React实现了一遍。[预览](https://spinjkb.github.io/resume/build/index.html)
 
 #其他
 ----
-希望能找到一份前端开发的工作（北京）
+目前在职状态，可以离职，希望能找到一份前端开发的工作（北京）
 
 #致谢
 ----
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
